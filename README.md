@@ -1,4 +1,4 @@
-<img width="1168" height="651" alt="image" src="https://github.com/user-attachments/assets/e73536ca-6c27-45b8-b267-188617bf5690" /># 📊 Dashboard Keuangan KKN
+# 📊 Dashboard Keuangan KKN
 Repositori ini berisi file Power BI (.pbix) untuk visualisasi dan pelacakan data keuangan program Kuliah Kerja Nyata (KKN).
 
 - `Dataset/` : berisi data mentah pengeluaran KKN
@@ -32,14 +32,13 @@ Kolom utama dalam dataset meliputi:
 
 ## 📸 Preview Dashboard
 
-![Dashboard Preview](Assets/Dashboard.png)
+![Dashboard Preview] <img width="1168" height="651" alt="image" src="https://github.com/user-attachments/assets/e73536ca-6c27-45b8-b267-188617bf5690" />
 
 ---
 
 ## 🌐 Dashboard Interaktif
 
-🔗 [Klik di sini untuk membuka dashboard versi interaktif di Power BI](https://app.powerbi.com/links/k_TczrzIrT?ctid=fedd5298-8e66-45f1-b321-fd38ad0ff722&pbi_source=linkShare).
-
+🔗 [Klik di sini untuk membuka dashboard versi interaktif di Power BI](https://app.powerbi.com/links/k_TczrzIrT?ctid=fedd5298-8e66-45f1-b321-fd38ad0ff722&pbi_source=linkShare) 
 ---
 
 ## ✨ Insight Penting
